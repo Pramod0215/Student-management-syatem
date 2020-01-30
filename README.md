@@ -71,6 +71,11 @@ Go to '/React/studentlist/frontend/studentlist'  and type the following code in 
 "npm -v",
 
 ```
+Go to install axios for fetching data from backend
+```
+npm install axios
+```
+
 Then to run the react server, type the code:
 ```
 npm start
