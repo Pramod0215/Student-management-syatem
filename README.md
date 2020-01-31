@@ -83,3 +83,5 @@ Then to run the react server, type the code:
 ```
 npm start
 ```
+# images
+![alt Home Page](https://github.com/Pramod0215/Cab-allocation-system/blob/master/cab_allocation_system/image/Screenshot%20from%202020-01-31%2017-47-26.png)<br>
