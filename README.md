@@ -1,5 +1,5 @@
 # studentlist
-In this .. get the data from database and perform operation (craete, delete, Update).
+In this .. get the data from database and perform operation (CRUD).
 
 ### Prerequisites
 
@@ -23,7 +23,7 @@ psycopg2==2.7.4
 Clone the repository
 
 ```
-https://github.com/Pramod0215/studentlist/
+git clone https://github.com/Pramod0215/studentlist/
 ```
 
 Setting up your virtual environment:
