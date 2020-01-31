@@ -3,10 +3,11 @@ from .models import Student
 
 
 class StudentReadSerializers(serializers.ModelSerializer):
-    skills=serializers.ListField(source='skills_comm_split')
+    skills_list=serializers.ListField(source='skills_comm_split')
+
     class Meta:
         model = Student
-        fields = ('id','firstName','lastName','skills')
+        fields = ('id','firstName','lastName','skills', 'skills_list')
 
 class StudentSerializers(serializers.ModelSerializer):
     class Meta:
