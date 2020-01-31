@@ -37,7 +37,10 @@ Activating Virtual  Environment
 ```
 source .env/bin/activate
 ```
-Once the repository is cloned and virtual environment set up, go to the directory where the requirements.txt(Catalogue-management-system/backend/) is and type the following code in your terminal:
+Once the repository is cloned and virtual environment set up, go to the directory where the requirements.txt(/React/studentlist$ ) is and type the following code in your terminal:
+```
+pip install -r requirements.txt
+```
 
 ### Database (SQlite) : 
 Using clould datebase which is provided by django.
