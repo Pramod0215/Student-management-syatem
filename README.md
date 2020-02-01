@@ -1,5 +1,5 @@
 # studentlist
-In this .. get the data from database and perform operation (CRUD).
+This app is useful for making studentlist . In list we can add data, Update and delete And sorted name with name and his skill
 
 ### Prerequisites
 
