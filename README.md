@@ -1,5 +1,5 @@
 # studentlist
-This app is useful for making studentlist . In list we can add data, Update and delete And sorted name with name and his skill
+This app is useful for making studentlist . In list we can add data, Update and delete And sorted name with name and his skills
 
 ### Prerequisites
 
